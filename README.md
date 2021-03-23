@@ -17,7 +17,7 @@
 <h3> I'm Software Engineer from Uzbekistan. </h3>
 <br>
 <br>
-- 🔋  I’m currently learning <b>GO</b> Development.
+- 🔋  I’m currently learning <b>GOLANG</b> .
 <br>
 - 💬 Ask me about anything, I am happy to help
 <br>
