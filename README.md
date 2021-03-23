@@ -64,11 +64,6 @@
 
 <br>
 
-<p align='center'>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekdev&theme=radical&title_color=8E2DE2&text_color=fff)
-
-</p>
 <br>
 <hr>
 <p align="center">
