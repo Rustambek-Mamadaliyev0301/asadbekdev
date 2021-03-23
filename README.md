@@ -1,11 +1,11 @@
 <p>
-  <h2> Hey there! I'm Asadbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+  <h2 align="center"> Hey there! I'm Asadbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/asadbek.noyibjonov/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https:/www.facebook.com/asadbek.noyibjonov/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/asadbeknoyibjonov"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://t.me/adevpro"><img src="https://img.shields.io/badge/telegram-0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="mailto:yaxshidasturchi@gmail.com?subject=Hi%20Asadbek"><img src="https://img.shields.io/badge/gmail-%23c34836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
