@@ -57,9 +57,7 @@
 
 <p>
   
-<img src="https://github-readme-stats.vercel.app/api?username=asadbekdev&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="600px">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekdev&theme=radical&title_color=8E2DE2&text_color=fff)
+<img src="https://github-readme-stats.vercel.app/api?username=asadbekdev&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="600px"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekdev&theme=radical&title_color=8E2DE2&text_color=fff)
 </p>
 
 <br>
