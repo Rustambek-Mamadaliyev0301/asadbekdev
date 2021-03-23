@@ -37,8 +37,7 @@
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![linux](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=8E2DE2)
-
+![linux](https://img.shields.io/badge/linux%205-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=8E2DE2)
 <br>
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
