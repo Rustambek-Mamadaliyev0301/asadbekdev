@@ -5,10 +5,6 @@
 <p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
-<br>
-
-
-<br>
 
 <hr>
 <h3> I'm Software Engineer from Uzbekistan. </h3>
