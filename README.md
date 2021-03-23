@@ -27,7 +27,7 @@
 
 <details><summary><strong>▶️My Projects...</strong></summary><p>
   <br>
-  <a href="https://github.com/asadbekdev/InstagramBot">🤖 FUTBOLAVA BOT</a>
+  <a href="https://github.com/asadbekdev/InstagramBot">🤖 INSTAGRAM BOT</a>
 <br>
   <a href="https://github.com/asadbekdev/ImkonEdu.uz">📰 NEWS SITE</a>
 <br>
@@ -37,7 +37,8 @@
 <details><summary>▶️<strong>Languages and Tools... </strong></summary>
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img
-src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/c.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/go.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img
+src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/linux.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 </p></details>
 <hr>
