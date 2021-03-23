@@ -11,7 +11,7 @@
 <br>
 - 🔋  I’m currently learning <b>GOLANG</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
-- 📫 How to reach me: saviomartin2020@gmail.com<br>
+- 📫 How to reach me: yaxshidasturchi@gmail.com<br>
 - 😄 My website: https://asadbek.hashnode.dev/<br>
 - ⚡ Fun fact: I'm comming to teen
 
