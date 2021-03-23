@@ -6,14 +6,7 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
 <br>
-<p align="center">
-<br>
-<a href="https:/www.facebook.com/asadbek.noyibjonov/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/asadbeknoyibjonov"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://t.me/adevpro"><img src="https://img.shields.io/badge/telegram-0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
-<a href="mailto:yaxshidasturchi@gmail.com?subject=Hi%20Asadbek"><img src="https://img.shields.io/badge/gmail-%23c34836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+
 
 <br>
 
@@ -78,6 +71,14 @@
 </p>
 <br>
 <hr>
+<p align="center">
+<br>
+<a href="https:/www.facebook.com/asadbek.noyibjonov/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/asadbeknoyibjonov"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://t.me/adevpro"><img src="https://img.shields.io/badge/telegram-0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
+<a href="mailto:yaxshidasturchi@gmail.com?subject=Hi%20Asadbek"><img src="https://img.shields.io/badge/gmail-%23c34836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
