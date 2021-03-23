@@ -9,10 +9,10 @@
 <h3> I'm Software Engineer from Uzbekistan. </h3>
 <br>
 <br>
-- 🔋  I’m currently learning <b>GOLANG</b> .
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://asadbek.hashnode.dev/
+- 🔋  I’m currently learning <b>GOLANG</b> .<br>
+- 💬 Ask me about anything, I am happy to help<br>
+- 📫 How to reach me: saviomartin2020@gmail.com<br>
+- 😄 My website: https://asadbek.hashnode.dev/<br>
 - ⚡ Fun fact: I'm comming to teen
 
 <hr>
