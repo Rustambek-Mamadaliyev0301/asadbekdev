@@ -13,7 +13,7 @@
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: yaxshidasturchi@gmail.com<br>
 - 😄 My website: https://asadbek.hashnode.dev/<br>
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: I use linux🐧
 
 <hr>
 
@@ -26,7 +26,7 @@
   <a href="https://github.com/asadbekdev?tab=repositories">👀 SEE MORE...</a>
   </p></details>
 <hr>
-<details><summary>▶️<strong>Languages and Tools... </strong></summary>
+<!-- <details><summary>▶️<strong>Languages and Tools... </strong></summary> -->
 <p align="center">
  <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
@@ -49,8 +49,7 @@
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-
-</p></details>
+</p>
 <hr>
 <br>
 <h3> - My Github activity </h3>
