@@ -3,7 +3,7 @@
 </p>
 <br>
 <p>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 </p>
 
 <h3> I'm Software Engineer from Uzbekistan. </h3>
