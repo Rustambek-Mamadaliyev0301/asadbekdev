@@ -10,10 +10,10 @@
 <br>
 <br>
 - 🔋  I’m currently learning <b>GOLANG</b> .
-<br>
 - 💬 Ask me about anything, I am happy to help
-<br>
-- 🧗 I try to: Go beyond and push the bounds
+- 📫 How to reach me: saviomartin2020@gmail.com
+- 😄 My website: https://asadbek.hashnode.dev/
+- ⚡ Fun fact: I'm comming to teen
 
 <hr>
 
