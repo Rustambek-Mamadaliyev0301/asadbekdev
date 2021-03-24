@@ -18,10 +18,9 @@ My blog posts, [23.03.21 22:09]
  <br>
  <br>
 <hr>
-## 📘 My top open source projects
 <p align="center">
 <br>
-<a href="https:/www.facebook.com/asadbek.noyibjonov/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://github.com/asadbekdev/ImkonEdu.uz"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=education&logoColor=white" alt="Education Site" /></a>&nbsp;
 <a href="https://github.com/asadbekdev/InstagramBot"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://t.me/adevpro"><img src="https://img.shields.io/badge/telegram-0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="mailto:yaxshidasturchi@gmail.com?subject=Hi%20Asadbek"><img src="https://img.shields.io/badge/gmail-%23c34836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
