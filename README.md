@@ -61,6 +61,8 @@
 &nbsp; <a href="https://instagram.com/asadbeknoyibjonov" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/asadbek-noyibjonov-6b3b2b1b6/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:yaxshidasturchi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://t.me/developer_asadbek" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
+  
 </p>
 
 <div align="center">
