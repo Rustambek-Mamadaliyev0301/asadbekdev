@@ -20,8 +20,8 @@ My blog posts, [23.03.21 22:09]
 <hr>
 <p align="center">
 <br>
-<a href="https://github.com/asadbekdev/ImkonEdu.uz"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=education&logoColor=white" alt="Education Site" /></a>&nbsp;
-<a href="https://github.com/asadbekdev/InstagramBot"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://github.com/asadbekdev/ImkonEdu.uz"><img src="https://img.shields.io/badge/Education Site-%231877F2.svg?&style=for-the-badge&logo=education&logoColor=white" alt="Education Site" /></a>&nbsp;
+<a href="https://github.com/asadbekdev/InstagramBot"><img src="https://img.shields.io/badge/InstagramBot-%23E4405F.svg?&style=for-the-badge&logo=bot&logoColor=white" alt="InstagramBot" /></a>&nbsp;
 <a href="https://t.me/adevpro"><img src="https://img.shields.io/badge/telegram-0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="mailto:yaxshidasturchi@gmail.com?subject=Hi%20Asadbek"><img src="https://img.shields.io/badge/gmail-%23c34836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
