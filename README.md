@@ -9,7 +9,7 @@
 <h3> I'm Software Engineer from Uzbekistan. </h3>
 <br>
 <br>
-- 🔋  I’m currently learning <b>GOLANG</b> .<br>
+- 🔋  I’m currently learning <b>Flutter</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: yaxshidasturchi@gmail.com<br>
 - 😄 My website: https://asadbek.hashnode.dev/<br>
