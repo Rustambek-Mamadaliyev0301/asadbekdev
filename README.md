@@ -31,7 +31,7 @@
 <b> <h2 align="center"> 🛠️ Languages and Tools </h2> </b>
 <p align="center">  
 
-  ![Flutter](https://img.shields.io/badge/-flutter-grey?style=for-the-badge&logo=dlutter&logoColor=white&labelColor=0075BA)
+  ![flutter](https://img.shields.io/badge/-flutter-grey?style=for-the-badge&logo=dlutter&logoColor=white&labelColor=0075BA)
   ![Dart](https://img.shields.io/badge/-dart-grey?style=for-the-badge&logo=dart&logoColor=white&labelColor=0075BA)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F)
   ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
