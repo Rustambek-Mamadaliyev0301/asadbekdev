@@ -71,3 +71,6 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 #### Thank You for visiting😇
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=BahromjonPolat" alt="visitor badge"/>
+</p>
